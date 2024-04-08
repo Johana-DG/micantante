@@ -1,0 +1,35 @@
+body{
+    background-color: #acffe1;
+    color: #ff66ff;
+    font-family: "Merriweather", serif;
+}
+h1{
+    text-align: center;
+    color: #ff66ff;
+}
+h2{
+    text-align: center;
+    color: #ffc25a;
+}
+p{
+    color: #930cec;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+img{
+    display: block;
+    margin: auto;
+    border: 2px solid #930cec;
+    height: 275px;
+    width: 275px;
+}
+.color1 {color: #ff66ff;}
+.color2 {color: #ff6897;}
+.color3 {color: #ffc25a;}
+.color4 {color: #ebfb8f;}
+.color5 {color: #acffe1;}
+
