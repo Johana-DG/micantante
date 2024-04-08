@@ -9,7 +9,7 @@ Este proyecto es mi primer sitio Web elaborado con mis conocimientos básicos en
 
  
   ### Vista Previa del Proyecto
-  ![DEMO](imagenes/pinterest_screen.png)
+  ![DEMO](imagenes/mipagina.png)
 
   ### Licencia
   Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
