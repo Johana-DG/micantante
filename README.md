@@ -14,5 +14,5 @@ Este proyecto es mi primer sitio Web elaborado con mis conocimientos básicos en
   ### Licencia
   Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
 
-  ### Contacto
+  ### Elaboró:
   Johana Diaz: [Mi Linkedin](www.linkedin.com/in/johana-diaz-galván-22905b255)
